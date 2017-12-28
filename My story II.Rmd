@@ -4,10 +4,9 @@
 明天我打算...
 
 
-去ATT4FUN吃好吃的
-<<<<<<< HEAD
+去ATT4FUN吃好
 
 
-做partial commit的練習。
-=======
->>>>>>> parent of de36884... partial commit
+我想做部分commit
+
+hk4g4
