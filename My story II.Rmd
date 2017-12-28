@@ -5,6 +5,9 @@
 
 
 去ATT4FUN吃好吃的
+<<<<<<< HEAD
 
 
 做partial commit的練習。
+=======
+>>>>>>> parent of de36884... partial commit
